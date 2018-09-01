@@ -561,6 +561,10 @@ qrwu mgnw hvflf ytspp mco ikvbqg fflvh wts cbbf";
             Console.WriteLine("Day 6 part 1 answer: {0}", day6.SolvePart1(PuzzleInput.Day6));
             Console.WriteLine("Day 6 part 2 answer: {0}", day6.SolvePart2(PuzzleInput.Day6));
 
+            Day7 day7 = new Day7();
+            Console.WriteLine("Day 7 part 1 answer: {0}", day7.SolvePart1(PuzzleInput.Day7));
+            Console.WriteLine("Day 7 part 2 answer: {0}", day7.SolvePart2(PuzzleInput.Day7));
+
             if (Debugger.IsAttached)
             {
                 Console.ReadLine();
